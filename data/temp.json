@@ -1,0 +1,28 @@
+{
+  "chat_history": [
+    {
+      "id": 1,
+      "timestamp": "2023-10-01T12:00:00Z",
+      "sender": "user",
+      "message": "Hi, how are you today?"
+    },
+    {
+      "id": 2,
+      "timestamp": "2023-10-01T12:00:15Z",
+      "sender": "assistant",
+      "message": "I'm doing well, thank you! How can I assist you?"
+    },
+    {
+      "id": 3,
+      "timestamp": "2023-10-01T12:01:00Z",
+      "sender": "user",
+      "message": "Tell me about the weather forecast for tomorrow."
+    },
+    {
+      "id": 4,
+      "timestamp": "2023-10-01T12:01:30Z",
+      "sender": "assistant",
+      "message": "The weather forecast for tomorrow predicts clear skies with a high of 75°F (24°C)."
+    }
+  ]
+}
